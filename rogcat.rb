@@ -1,8 +1,8 @@
 class Rogcat < Formula
   desc "adb logcat wrapper and log processor"
   homepage "https://github.com/flxo/rogcat"
-  url "https://github.com/flxo/rogcat/releases/download/v0.3.0/rogcat-v0.3.0-x86_64-apple-darwin.tar.gz"
-  sha256 "fea040fb502442eeeb762d77db7b77b07722da2101ccc6090fced9e2943b6fd7"
+  url "https://github.com/flxo/rogcat/releases/download/v0.4.0/rogcat-v0.4.0-x86_64-apple-darwin.tar.gz"
+  sha256 "e3125e8598e445134bb02a113ffd5b675da1297474e672268f012eefbf4a126c"
   bottle :unneeded
 
   def install
